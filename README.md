@@ -1,4 +1,4 @@
-# Website-of-a-Game-Studio
+# Website for a Game Studio
 
 ### Software:
 
