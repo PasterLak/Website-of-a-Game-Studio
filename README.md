@@ -2,15 +2,15 @@
 
 ### Software:
 
-Visual Studio Code
-Photoshop
+- Visual Studio Code
+- Photoshop
 
 ### Functionality:
-Before entering the website, users are informed about cookies.
-Responsive web design for mobile and desktop.
-Various games developed by me are displayed (title, description, link to repository, website, YouTube video link).
-Contact form (currently not functional).
-Back-To-Top button.
+- Before entering the website, users are informed about cookies.
+- Responsive web design for mobile and desktop.
+- Various games developed by me are displayed (title, description, link to repository, website, YouTube video link).
+- Contact form (currently not functional).
+- Back-To-Top button.
 
 ![Xnip2023-09-04_14-26-35](https://github.com/PasterLak/Website-of-a-Game-Studio/assets/59233654/1eaa2bae-7e25-43ab-a288-c2561fa5dc02)
 ![Xnip2023-09-04_14-26-54](https://github.com/PasterLak/Website-of-a-Game-Studio/assets/59233654/72f15c58-c276-4aa7-a255-5026f6fa8820)
